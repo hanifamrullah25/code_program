@@ -1,0 +1,4 @@
+first upload the .sql file in "sql database" folder to the database
+move the "kotakngotak" file to htdocs in xampp
+run the xampp controler and start the Apache and MySQL
+open your browser and type "http://localhost/kotakngotak/" the aplication address in the url bar
